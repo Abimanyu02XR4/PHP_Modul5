@@ -26,10 +26,10 @@ Sebutkan nama fungsi beserta paramater yang kamu gunakan dalam program!
   parameter = jari
   
   <h1>Gambar</h1>
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(168).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(169).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(170).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(171).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(172).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(173).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(174).png?raw=true)
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(168).png?raw=true);
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(169).png?raw=true);
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(170).png?raw=true);
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(171).png?raw=true);
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(172).png?raw=true);
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(173).png?raw=true);
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(174).png?raw=true);
