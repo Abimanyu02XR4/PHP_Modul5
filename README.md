@@ -1,3 +1,12 @@
+# Gambar
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(168).png?raw=true)
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(169).png?raw=true)
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(170).png?raw=true)
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(171).png?raw=true)
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(172).png?raw=true)
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(173).png?raw=true)
+  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(174).png?raw=true)
+
 # PHP_Modul5
 1. Jelaskan menggunakan bahasa sendiri tentang fungsi dalam php!
     Fungsi dalam ilmu php menurut saya adalah kode program yang digunakan untuk mejalankan isi daripada fungsi atau kode program yang 
@@ -25,11 +34,4 @@ Sebutkan nama fungsi beserta paramater yang kamu gunakan dalam program!
   nama fungsi = luas_o
   parameter = jari
   
-  <h1>Gambar</h1>
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(168).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(169).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(170).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(171).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(172).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(173).png?raw=true)
-  ![alt text](https://github.com/Abimanyu02XR4/PHP_Modul5/blob/master/Screenshot%20(174).png?raw=true)
+  
